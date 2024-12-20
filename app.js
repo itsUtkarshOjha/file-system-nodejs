@@ -94,7 +94,7 @@ import { Buffer } from "buffer";
   //this 'r'flag above signifies that the file will be open only for reading purposes. For other flags, refer to the docs
 
   commandFileHandler.on("change", async () => {
-    //defining the event
+    //defining the event, this is just a random change.
 
     //   console.log(`The file was just edited.`);
 
